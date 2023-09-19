@@ -3013,6 +3013,7 @@ section {
 # Apply Section
 --------------------------------------------------------------*/
 .Apply .job-posting {
+  padding: 0 0 60px 0;
   margin:auto;
   align-items: center;
   justify-content: center;
