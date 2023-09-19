@@ -3013,14 +3013,12 @@ section {
 # Apply Section
 --------------------------------------------------------------*/
 .apply {
-  margin-top: 30px;
+  margin: auto;
 }
 
 .apply .job-posting {
-  padding: 0 0 60px 0;
+  padding: 60px;
   margin: auto;
-  align-items: center;
-  justify-content: center;
 }
 
 
