@@ -3012,9 +3012,13 @@ section {
 /*--------------------------------------------------------------
 # Apply Section
 --------------------------------------------------------------*/
+.Apply {
+  margin-top: 30px;
+}
+
 .Apply .job-posting {
   padding: 0 0 60px 0;
-  margin:auto;
+  margin: auto;
   align-items: center;
   justify-content: center;
 }
